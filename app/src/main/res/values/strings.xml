@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">CulinaryListView</string>
+    <string name="type1">type1</string>
+    <string name="type2">type2</string>
+    <string name="title">title</string>
+    <string name="desc">description</string>
+    <string name="date">date</string>
+
+    <string-array name="type1">
+        <item>USA</item>
+        <item>Belgia</item>
+        <item>Italy</item>
+        <item>German</item>
+        <item>German</item>
+        <item>South America</item>
+        <item>Japan</item>
+        <item>Japan</item>
+        <item>China</item>
+        <item>Timur Tengah</item>
+        <item>English</item>
+        <item>Korea</item>
+        <item>Korea</item>
+        <item>Korea</item>
+        <item>Japan</item>
+        <item>Japan</item>
+        <item>USA</item>
+        <item>French</item>
+        <item>Korea</item>
+        <item>Korea</item>
+        <item>Korea</item>
+        <item>Korea</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>North America</item>
+        <item>indonesia</item>
+        <item>Roman</item>
+        <item>Mexico</item>
+        <item>Mexico</item>
+        <item>North Mexico</item>
+    </string-array>
+
+    <string-array name="type2">
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+        <item>Appetizer</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>Fried Chiken</item>
+        <item>French Fries</item>
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Hot Dog</item>
+        <item>Donat</item>
+        <item>Sushi</item>
+        <item>Ramen</item>
+        <item>Ice Cream</item>
+        <item>Kebab</item>
+        <item>Sandwich</item>
+        <item>Bibimbap</item>
+        <item>Jjajangmyeon</item>
+        <item>Tteokbokki</item>
+        <item>Yakiniku</item>
+        <item>Takoyaki</item>
+        <item>Corn Dog</item>
+        <item>Croissant</item>
+        <item>Bulgogi</item>
+        <item>Japchae</item>
+        <item>Gimbap</item>
+        <item>Samgyetang</item>
+        <item>Yogurt</item>
+        <item>Es Kepal</item>
+        <item>Pop Corn</item>
+        <item>Jasuke</item>
+        <item>Pancake</item>
+        <item>Taco</item>
+        <item>Burrito</item>
+        <item>Nacho</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Ayam goreng adalah hidangan yang dibuat dari daging ayam dicampur tepung bumbu yang digoreng dalam minyak goreng panas. Beberapa rumah makan siap saji secara khusus menghidangkan ayam goreng, misalnya Kentucky Fried Chicken.</item>
+        <item>Kentang goreng adalah hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas. Di dalam menu rumah-rumah makan, kentang goreng yang dipotong panjang-panjang dan digoreng dalam keadaan terendam di dalam minyak goreng panas disebut French fries.</item>
+        <item>Piza adalah hidangan gurih dari Italia sejenis roti bundar dan pipih, yang dipanggang di oven dan biasanya dilumuri saus tomat serta keju dengan bahan makanan tambahan lainnya yang bisa dipilih. Keju yang dipakai biasanya mozzarella atau "keju pizza".</item>
+        <item>Hamburger adalah sejenis makanan berupa roti berbentuk bundar yang diiris dua dan ditengahnya diisi dengan patty yang biasanya di ambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombay. Sebagai sausnya, burger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal serta mustard.</item>
+        <item>Hot dog adalah suatu jenis sosis yang dimasak atau diasapi dan memiliki tekstur yang lebih halus serta rasa yang lebih lembut dan basah daripada kebanyakan sosis.</item>
+        <item>Donat adalah penganan yang digoreng, dibuat dari adonan tepung terigu, gula, telur, dan mentega. Donat yang paling umum adalah donat berbentuk cincin dengan lubang di tengah dan donat berbentuk bundar dengan isian manis, seperti selai, jelly, krim, dan custard.</item>
+        <item>Sushi adalah makanan Jepang yang terdiri dari nasi yang dibentuk bersama lauk berupa makanan laut, daging, sayuran mentah atau sudah dimasak. Nasi sushi mempunyai rasa masam yang lembut karena dibumbui campuran cuka beras, garam, dan gula.</item>
+        <item>Ramen adalah masakan mi kuah Jepang yang berasal dari China. Orang Jepang juga menyebut ramen sebagai chuka soba atau shina soba karena soba atau o-soba dalam bahasa Jepang sering juga berarti mi.</item>
+        <item>Es krim adalah sebuah makanan beku dibuat dari produk susu seperti krim, digabungkan dengan perasa dan pemanis. Campuran ini didinginkan dengan mengaduk sambil mengurangi suhunya untuk mencegah pembentukan kristal es besar.</item>
+        <item>Kebab adalah penganan cepat saji terdiri atas daging sapi yang dipanggang seperti satai kemudian diiris-iris ditambah dengan sayuran segar dan mayones, lalu dibalut dengan kulit tortila.</item>
+        <item>Roti lapis atau roti isi, adalah makanan yang biasanya terdiri dari sayuran, keju atau daging yang diiris, diletakkan di atas atau di antara irisan roti, atau lebih tepatnya makanan apapun dimana dua atau lebih potongan roti berfungsi sebagai wadah atau pembungkus untuk jenis makanan lain.</item>
+        <item>Bibimbap adalah masakan Korea berupa semangkuk nasi putih dengan lauk di atasnya berupa sayur-sayuran, daging sapi, telur, dan saus pedas gochujang. Namanya secara harafiah berarti "nasi campur" yang berasal dari kata 비빔 dan 밥. Sebelum dimakan, nasi dan lauk diaduk menjadi satu.</item>
+        <item>Jajangmyeon (atau jjajangmyeon) adalah jenis Masakan Korea yaitu mi saus pasta kacang kedelai hitam. Jajangmyeon dipengaruhi kuliner Tionghoa, dan orang Tiongkok biasa menyebutnya Zhajiangmian (炸醬麵). Jajang artinya saus goreng, dan myeon artinya mi.</item>
+        <item>Tteokbokki adalah penganan Korea berupa tteok dari tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tteok yang dipakai berbentuk batang atau silinder. Penganan ini merupakan makanan rakyat yang banyak dijual di pojangmacha.</item>
+        <item>Yakiniku adalah istilah bahasa Jepang untuk daging yang dipanggang atau dibakar di atas api. Dalam arti luas, yakiniku juga mencakup berbagai masakan daging sapi, babi, atau jeroan yang dipanggang, seperti bistik, panggang daging domba, dan barbeque.</item>
+        <item>Takoyaki adalah nama makanan asal daerah Kansai di Jepang, berbentuk bola-bola kecil dengan diameter 3 sampai 5 cm yang dibuat dari adonan tepung terigu diisi potongan gurita di dalamnya.</item>
+        <item>Corn dog adalah makanan yang terbuat dari sosis ditusuk yang dilapisi dengan lapisan tebal adonan encer tepung jagung kasar dan digoreng rendam. Hidangan tersebut berasal dari Amerika Serikat dan umum ditemukan dalam Masakan Amerika.</item>
+        <item>Roti sabit yang berasal dari Prancis, dinamakan demikian karena bentuknya menyerupai bulan sabit. Menurut legenda, roti ini berasal dari Eropa untuk merayakan kemenangan pasukan Franks atas pasukan</item>
+        <item>Bulgogi adalah olahan daging asal Korea. Daging yang digunakan antara lain daging sirloin atau bagian daging sapi pilihan. Bumbu bulgogi adalah campuran kecap asin dan gula ditambah rempah lain bergantung pada resep dan daerah di Korea.</item>
+        <item>Japchae adalah makanan Korea berupa sohun yang dicampur dengan berbagai jenis sayuran dan daging sapi. Makanan ini termasuk salah satu banchan, dan dimakan sebagai lauk, terutama dalam pesta dan kesempatan khusus. Sayuran yang digunakan biasanya sayuran yang sedang musim.</item>
+        <item>Gimbap adalah jenis makanan Korea yang terdiri dari nasi yang dibungkus dengan rumput laut. Gimbap populer sebagai makanan yang dibawa piknik, hiking atau aktivitas lain di luar ruangan.</item>
+        <item>Samgyetang adalah sup ayam ginseng masakan Korea. Sup ini berisi ayam muda dalam keadaan utuh yang direbus dengan api kecil selama 2 sampai 3 jam hingga empuk. Seporsi sup dalam panci kecil biasanya dimakan oleh satu orang. Samgyetang dimakan dengan tambahan merica, garam, dan kimchi yang disediakan di atas meja.</item>
+        <item>Yoghurt atau yogurt adalah susu yang dibuat melalui fermentasi bakteri. Yoghurt dapat dibuat dari susu apa saja, termasuk sari kacang kedelai. Produksi modern saat ini didominasi susu sapi.</item>
+        <item>adalah salah satu jajanan yang berupa es yang diparut dan diberi topping aneka warna. Es tersebut memiliki rasa manis dan umumnya memakai susu coklat.[1] Es kepal dapat dibeli di pinggir jalan, pasar, atau warung.</item>
+        <item>Berondong atau bertih jagung adalah jenis penganan dari bijian serealia yang dipanaskan hingga meletup. Berondong yang paling umum dibuat dari bijian jagung, tetapi juga dapat dibuat dari beberapa serealias lain, seperti padi dan bayam biji.</item>
+        <item>Produk “JASUKE” , adalah sejenis makanan ringan yang terbuat jadi jagung manis yang direbus dan dicampur dengan susu,keju,dan mentega.</item>
+        <item>Panekuk adalah kue dadar yang dibuat dari terigu, telur ayam, gula dan susu. Bahan-bahan dicampur dengan air membentuk adonan kental yang digoreng di atas wajan datar yang diolesi sedikit minyak. Setelah matang, panekuk bisa dihidangkan sewaktu masih hangat atau setelah dingin.</item>
+        <item>Taco adalah makanan khas Meksiko yang terdiri atas gulungan atau lipatan tortilla yang diisi dengan berbagai macam masakan di dalamnya. Salah satu versi Taco terdapat di makanan khas Tex-Mex, yakni Breakfast Taco yang terdiri atas telur dadar dan kombinasi kentang, sosis dan/atau daging babi asap.</item>
+        <item>Burrito adalah salah satu makanan khas Meksiko. Makanan ini terdiri atas tortilla gandum yang diisi dengan berbagai macam daging seperti daging sapi, ayam atau babi. Daging-daging yang sudah dimasak ini biasanya hanya isi satu-satunya, dan kemudian digulung dengan tortilla tadi. </item>
+        <item>Nacho adalah salah satu makanan dari Meksiko. Dalam bentuk yang paling sederhana, nacho terdiri atas keripik tortilla yang disiram dengan keju cair.</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+        <item>27 January 2020</item>
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/friedchiken</item>
+        <item>@drawable/frenchfries</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/hotdog</item>
+        <item>@drawable/donat</item>
+        <item>@drawable/sushi</item>
+        <item>@drawable/ramen</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/kebab</item>
+        <item>@drawable/sandwich</item>
+        <item>@drawable/bibimbap</item>
+        <item>@drawable/jjajangmyeon</item>
+        <item>@drawable/tteokbokki</item>
+        <item>@drawable/yakiniku</item>
+        <item>@drawable/takoyaki</item>
+        <item>@drawable/corndog</item>
+        <item>@drawable/croissant</item>
+        <item>@drawable/bulgogi</item>
+        <item>@drawable/japchae</item>
+        <item>@drawable/kimbap</item>
+        <item>@drawable/samgyrtang</item>
+        <item>@drawable/yogurt</item>
+        <item>@drawable/eskepal</item>
+        <item>@drawable/popcorn</item>
+        <item>@drawable/jasuke</item>
+        <item>@drawable/pancake</item>
+        <item>@drawable/taco</item>
+        <item>@drawable/burrito</item>
+        <item>@drawable/nacho</item>
+    </array>
+
+</resources>
